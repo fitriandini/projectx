@@ -7,12 +7,12 @@ image:
 slides: example
 summary: Project.
 tags:
-- Deep Learning
-title: Internal Project
+- Personal Project
+title: Personal Project
 url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
 ---
 
-In this page I will put one of the project that I want to publish. ^^
+In this page I will put one of the personal project that I want to publish. ^^
