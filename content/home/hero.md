@@ -16,11 +16,10 @@ advanced:
 ---
 
 <br/>
-Hi! I'm Fitria. Welcome to my portofolio project.
+Welcome to my portofolio site.
 <br/>
 <br/>
-I've always wanted to have a simple 'home' for all of my programming projects since my bachelor degree. 
-Finally, I managed to create a porto-web as my personal project. 
+This will be the simple 'home' for my programming project.
 <br/>
 <br/>
 This web is created using {{< hl >}} R blogdown and Hugo theme {{< /hl >}}. 
