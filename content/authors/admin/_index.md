@@ -45,5 +45,5 @@ title: Fitria Nur Andini
 
 
 
-Fitria Nur Andini is a Master Degree holder from Eindhoven University of Technology - The Netherlands. Her Master project focused on the extracting information from noisy data while leaking nothing. She published her Master project on IEEE Transaction on Information Forensics and Security, as a co-author. She also interested in image processing and machine learning, as her Bachelor final project is related to Neural Network and Photometric Stereo for reconstructing 3D image. At her work place, She mainly works with database and data. She has experience of data processing using Oracle, SQL Server, mySQL, and Excel. 
+Fitria Nur Andini holds a Master Degree of Information Security Technology from Eindhoven University of Technology - The Netherlands. Her Master project focused on the extracting information from noisy data while leaking nothing. She published her Master project on IEEE Transaction on Information Forensics and Security, as a co-author. She also interested in image processing and machine learning, as her Bachelor final project is related to Neural Network and Photometric Stereo for reconstructing 3D image. At her work place, She mainly works with database and data. She has experience of data processing using Oracle, SQL Server, mySQL, and Excel. 
 
