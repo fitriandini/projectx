@@ -38,7 +38,7 @@ social:
   link: https://github.com/fitriandini
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/fitria-nur-andini-a8958661/
+  link: https://id.linkedin.com/in/fitria-nur-andini-s-kom-m-sc-cisa-a8958661?trk=people-guest_people_search-card
 superuser: true
 title: Fitria Nur Andini
 ---
