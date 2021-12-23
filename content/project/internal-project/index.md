@@ -9,7 +9,7 @@ summary: Project.
 tags:
 - Personal Project
 title: Personal Project
-url_code: ""
+url_code: "https://github.com/fitriandini/Bachelor"
 url_pdf: ""
 url_slides: ""
 url_video: ""
